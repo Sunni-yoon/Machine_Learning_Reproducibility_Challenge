@@ -1,6 +1,10 @@
 
 # Machine Learning Reproducibility Challenge (MLRC) of PT4AL 
 
+## ▶ Final Report
+[Reproducing_PT4AL__Challenges_and_Insights_into_Using_Self_Supervised_Pretext_Tasks_for_Active_Learning.pdf](https://github.com/user-attachments/files/17354789/Reproducing_PT4AL__Challenges_and_Insights_into_Using_Self_Supervised_Pretext_Tasks_for_Active_Learning.pdf)
+
+
 ## ▶ Project Objective
   - Review the reproducibility of previously published papers.
   - We experimented by adding a dataset that was not in the official code of the selected paper and adding the code required for the pretext task.
